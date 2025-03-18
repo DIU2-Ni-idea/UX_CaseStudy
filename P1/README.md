@@ -7,4 +7,4 @@
 - Revisión de Usabilidad 
 
 
-USER RESEARCH PLAN --> [USER RESEARCH PLAN.pdf](https://github.com/DIU2-Ni-idea/UX_CaseStudy/blob/master/P1/USER%20RESEARCH%20PLAN.pdf)
+USER RESEARCH PLAN --> [USER RESEARCH PLAN.pdf](USER%20RESEARCH%20PLAN.pdf)
