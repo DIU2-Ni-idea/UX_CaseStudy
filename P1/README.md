@@ -16,6 +16,6 @@ Enlaces a los entregables:
 - Personas + Journey Maps:
     - Mark Powells --> [P + JM (Mark Powells)](Persona_+_Journey_Map_\(Mark_Powells\).pdf)
 - Usability Review:
-    - ...
+    - [Usability Review](Usability_Review_Kafka.pdf)
 
 Briefing resumen de la práctica: ...
