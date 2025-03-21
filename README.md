@@ -91,7 +91,7 @@ El caso de Mark Powells es interesante porque es bastante común en el ámbito d
 
 ![User Journey Map: Mark Powells](P1/Personas_y_Journey_Maps/User_Journey_Map_\(Mark_Powells\).png)
 
-En cuanto al caso de Patricia, nos otorga un punto de vista distinto que permite poner a prueba si el establecimiento proporciona la información necesaria y exacta para que sus clientes puedan completar con éxito sus tareas y objetivos sin llegar a frustarse. Comienza algo animada al saber que una cata privada puede ser una experiencia distinta, algo novedoso que nunca ha probado. Sin embargo, debido a la inexistencia de una web oficial y/o información explícita de los tipos de reserva de la Taberna de Kafka, el proceso de reserva se vuelve incómodo para ella, no permitiéndole disfrutar del proceso de información y posterior reserva derivando en que la experiencia final no sea como ella hubiese querido.
+En cuanto al caso de Patricia, nos otorga un punto de vista distinto que permite averiguar si el establecimiento proporciona la información necesaria y exacta para que sus clientes puedan completar tareas y objetivos con éxito y sin frustarse. Comienza algo animada porque una cata privada es una experiencia novedosa. No obstante, la falta de web oficial e información explicita por parte de La taberna de Kafka provoca que el proceso de reserva se le haga incómodo, no permitiéndole disfrutar el proceso de recabar información y posterior reserva, y haciendo que la experiencia final no sea como hubiese querido.
 
 ![User Journey Map: Patricia Murcia](P1/Personas_y_Journey_Maps/User_Journey_Map_\(Patricia_Murcia\).png)
 
