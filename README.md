@@ -100,7 +100,7 @@ En cuanto al caso de Patricia, nos otorga un punto de vista distinto que permite
 ![Método UX](img/usabilityReview.png) 
 ----
 
-Enlace al documento: [Usability Review](P1/Usability_Review/Usability_Review.pdf)
+Enlace al documento: [Usability Review](P1/Usability_Review/Usability_Review_Kafka.pdf)
 
 URL y Valoración numérica obtenida: [La taberna de Kafka](https://www.facebook.com/laTabernadeKafka) --> Puntuación: 54 - Moderate
 
