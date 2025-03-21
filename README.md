@@ -63,9 +63,9 @@ De cara a su análisis comparativo, hemos decidido buscar dos competidores cerca
 
 Granada Gourmet (posiblemente renombrado a “Picnic Gourmet”): ofrece gran variedad de productos, desde jamones y aceites hasta encurtidos. Su página web deja que desear en términos de rendimiento y usabilidad, además de no reflejar en su totalidad el aparente renombre a “Picnic Gourmet”, pero cuenta con las funcionalidades que cabría esperar de un diseño web actual (selección de idioma, adaptable al dispositivo…). 
 
-Bodegas Calvente: se centra considerablemente más en la cultura del vino. Su modelo de negocio está basado íntegramente en las ventas y catas de vino (a lo cual se ha añadido la venta de aceites también), respaldando esto con una página bien construida, aunque orientada (quizá demasiado) a la estética, y no tanto en dejar a la vista lo que el usuario debería o quiere ver.
+Bodegas Calvente: se centra considerablemente más en la cultura del vino. Su modelo de negocio está basado íntegramente en las ventas y catas de vino (a lo cual se ha añadido la venta de aceites también), respaldando esto con una página bien construida, aunque con algunos defectos (selección de idioma no del todo funcional, p.e).
 
-En comparación a los dos establecimientos anteriormente mencionados, La taberna de Kafka no dispone de ningún tipo de página web, en su lugar dependiendo enteramente de sus cuentas en redes sociales y de mensajería para el desarrollo de sus actividades. A pesar de carecer severamente en el aspecto tecnológico y de página web, queda algo compensado con la experiencia que otorgan en persona.
+En comparación a los dos establecimientos anteriormente mencionados, La taberna de Kafka no dispone de ningún tipo de página web, en su lugar dependiendo enteramente de sus cuentas en redes sociales y de mensajería para el desarrollo de sus actividades. A pesar de carecer severamente en el aspecto tecnológico y de página web, esto se compensa con la experiencia que otorgan en persona y favoreciendo el uso del "boca a boca" para darse a conocer.
 
 Enlace a recurso: [Competitor Analysis](P1/Competitor_Analysis/Competitor_Analysis.pdf)
 
