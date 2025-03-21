@@ -87,8 +87,6 @@ Patricia Murcia: Patricia es un buen perfil para ser cliente de una cata de vino
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.
-
 El caso de Mark Powells es interesante porque es bastante común en el ámbito del ocio de degustación. Un turista sin apenas conocimiento del idioma o cultura intenta reservar improvisadamente una experiencia refinada y que le permita conocer mejor su entorno, pero acaba topándose con problemas graves de accesibilidad de idioma y complicaciones en el proceso de contactar con el local.
 
 ![User Journey Map: Mark Powells](P1/Personas_y_Journey_Maps/User_Journey_Map_\(Mark_Powells\).png)
