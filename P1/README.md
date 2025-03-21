@@ -12,10 +12,10 @@ Enlaces a los entregables:
 - User Research Plan: 
     - [User Research Plan](User_Research_Plan.pdf)
 - Desk Research - Competitor Analysis:
-    - [Desk Research - Competitor Analysis](Competitor_Analysis.pdf)
+    - [Desk Research - Competitor Analysis](Competitor_Analysis/Competitor_Analysis.pdf)
 - Personas + Journey Maps:
-    - Mark Powells --> [P + JM (Mark Powells)](Persona_+_Journey_Map_\(Mark_Powells\).pdf)
+    - Mark Powells --> [P + JM (Mark Powells)](Personas_y_Journey_Maps/Persona_+_Journey_Map_\(Mark_Powells\).pdf)
 - Usability Review:
-    - [Usability Review](Usability_Review_Kafka.pdf)
+    - [Usability Review](Usability_Review/Usability_Review_Kafka.pdf)
 
 Briefing resumen de la práctica: ...
