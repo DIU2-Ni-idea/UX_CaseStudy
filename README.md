@@ -69,19 +69,33 @@ En comparación a los dos establecimientos anteriormente mencionados, La taberna
 
 Enlace a recurso: [Competitor Analysis](P1/Competitor_Analysis/Competitor_Analysis.pdf)
 
+![Comptetitor_Analysis](P1/Competitor_Analysis/Competitor_Analysis.png)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Mark Powells: esta Persona ilustra un tipo de cliente común para el ocio de degustación: el turista extranjero. Su falta de dominio del idioma, su escaso conocimiento de la cultura, y el poco tiempo que tiene disponible son idóneos para comprobar si nuestro caso es capaz de satisfacer las necesidades del cliente a pesar de los impedimentos comunicativos y falta de preparación.
 
+![Persona: Mark Powells](P1/Personas_y_Journey_Maps/Persona_\(Mark_Powells\).png)
+
+Patricia Murcia: Patricia es un buen perfil para ser cliente de una cata de vinos, debido a que reúne varios criterios deseados por un establecimiento de gastronomía/ocio como puede ser un perfil profesional, con un buen nivel económico y que busca celebrar un acontecimiento especial de forma que, en caso de agradarle la experiencia, seguramente quiera repetirla y puede permitírselo. Sin embargo, debido a su nivel de exigencia, cualquier pequeño inconveniente injustificado puede enturbiar su experiencia y provocar su animadversión a regresar al local. Patricia representa al cliente exigente pero que los empresarios desean retener.
+
+![Persona: Patricia Murcia](P1/Personas_y_Journey_Maps/Persona_\(Patricia_Murcia\).png)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+>>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.
+
+El caso de Mark Powells es interesante porque es bastante común en el ámbito del ocio de degustación. Un turista sin apenas conocimiento del idioma o cultura intenta reservar improvisadamente una experiencia refinada y que le permita conocer mejor su entorno, pero acaba topándose con problemas graves de accesibilidad de idioma y complicaciones en el proceso de contactar con el local.
+
+![User Journey Map: Mark Powells](P1/Personas_y_Journey_Maps/User_Journey_Map_\(Mark_Powells\).png)
+
+En cuanto al caso de Patricia, nos otorga un punto de vista distinto que permite poner a prueba si el establecimiento proporciona la información necesaria y exacta para que sus clientes puedan completar con éxito sus tareas y objetivos sin llegar a frustarse. Comienza algo animada al saber que una cata privada puede ser una experiencia distinta, algo novedoso que nunca ha probado. Sin embargo, debido a la inexistencia de una web oficial y/o información explícita de los tipos de reserva de la Taberna de Kafka, el proceso de reserva se vuelve incómodo para ella, no permitiéndole disfrutar del proceso de información y posterior reserva derivando en que la experiencia final no sea como ella hubiese querido.
+
+![User Journey Map: Patricia Murcia](P1/Personas_y_Journey_Maps/User_Journey_Map_\(Patricia_Murcia\).png)
 
 
 ### 1.e Usability Review
@@ -94,7 +108,7 @@ URL y Valoración numérica obtenida: [La taberna de Kafka](https://www.facebook
 
 Comentario sobre la revisión:
 - Puntos fuertes: contenido publicado, servicios ofrecidos (catas de vinos temáticas…), rendimiento de la plataforma…
-- Puntos débiles: enlaces rotos, poco intuitivo, no se aporta suficiente información para realizar la mayoría de tareas, no tiene página web (depende exclusivamente de sus plataformas de redes sociales)…
+- Puntos débiles: enlaces rotos, no se aporta suficiente información para realizar la mayoría de tareas, no tiene página web (depende exclusivamente de sus plataformas de redes sociales)…
 
 En general, nuestro caso se beneficiaría de migrar su actividad a una página web propia, con capacidad de búsqueda y con información abundante sobre sus servicios, cómo reservar… Además, disponer de un formulario de reserva u otro tipo de asistencia para realizar las reservas solventaría muchos de los contratiempos que surgen de tener que contactar directamente con ellos para hacerlo.
 
