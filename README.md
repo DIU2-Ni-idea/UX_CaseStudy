@@ -42,14 +42,32 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-![User Research Plan](P1/USER%20RESEARCH%20PLAN.pdf)
+Dentro del ámbito de la gastronomía (u ocio) de degustación, no contamos con un conocimiento
+muy profundo. Sabemos que existe, tenemos una idea general de su propósito y también una
+idea de su público objetivo, pero nada más allá de ello.
+Para afrontar nuestra falta de información previa, seguiremos una estrategia basada en los
+siguientes puntos:
+ - Llevar a cabo una investigación que combine métodos cualitativos (entrevistas, estudios etnográficos...), que nos permitirán saber qué motiva a los usuarios, y cuantitativos (encuestas, análisis estadísticos...), que nos proporcionarán información medible sobre las acciones de dichos usuarios. Además, emplearemos enfoques de observación junto con estudio del comportamiento para mayor efectividad. Nuestro objetivo es tener una visión lo más clara posible del ámbito, y para ello es necesario combinar estos cuatro aspectos en nuestra investigación, al ser complementarios.
+ - A partir de nuestra investigación, estableceremos un plan que describa: objetivos, métodos, participantes, detalles logísticos y otros documentos relevantes del estudio.
+
+Enlace al recurso: [User Research Plan](P1/User_Research_Plan.pdf)
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Nuestro caso de estudio se centrará en La taberna de Kafka, un local que, además de ser restaurante y servir tapas, ofrece catas de vinos públicas y privadas. Hemos optado por esta opción dado que no cuenta con una página web oficial, lo que presenta una situación interesante para estudio.
+
+De cara a su análisis comparativo, hemos decidido buscar dos competidores cercanos geográficamente que también ofrecen catas, entre otros servicios: Granada Gourmet y Bodegas Calvente.
+
+Granada Gourmet (posiblemente renombrado a “Picnic Gourmet”): ofrece gran variedad de productos, desde jamones y aceites hasta encurtidos. Su página web deja que desear en términos de rendimiento y usabilidad, además de no reflejar en su totalidad el aparente renombre a “Picnic Gourmet”, pero cuenta con las funcionalidades que cabría esperar de un diseño web actual (selección de idioma, adaptable al dispositivo…). 
+
+Bodegas Calvente: se centra considerablemente más en la cultura del vino. Su modelo de negocio está basado íntegramente en las ventas y catas de vino (a lo cual se ha añadido la venta de aceites también), respaldando esto con una página bien construida, aunque orientada (quizá demasiado) a la estética, y no tanto en dejar a la vista lo que el usuario debería o quiere ver.
+
+En comparación a los dos establecimientos anteriormente mencionados, La taberna de Kafka no dispone de ningún tipo de página web, en su lugar dependiendo enteramente de sus cuentas en redes sociales y de mensajería para el desarrollo de sus actividades. A pesar de carecer severamente en el aspecto tecnológico y de página web, queda algo compensado con la experiencia que otorgan en persona.
+
+Enlace a recurso: [Competitor Analysis](P1/Competitor_Analysis/Competitor_Analysis.pdf)
 
 
 ### 1.c Personas
@@ -70,10 +88,15 @@ Miembros:
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Enlace al documento: [Usability Review](P1/Usability_Review/Usability_Review.pdf)
+
+URL y Valoración numérica obtenida: [La taberna de Kafka](https://www.facebook.com/laTabernadeKafka) --> Puntuación: 54 - Moderate
+
+Comentario sobre la revisión:
+- Puntos fuertes: contenido publicado, servicios ofrecidos (catas de vinos temáticas…), rendimiento de la plataforma…
+- Puntos débiles: enlaces rotos, poco intuitivo, no se aporta suficiente información para realizar la mayoría de tareas, no tiene página web (depende exclusivamente de sus plataformas de redes sociales)…
+
+En general, nuestro caso se beneficiaría de migrar su actividad a una página web propia, con capacidad de búsqueda y con información abundante sobre sus servicios, cómo reservar… Además, disponer de un formulario de reserva u otro tipo de asistencia para realizar las reservas solventaría muchos de los contratiempos que surgen de tener que contactar directamente con ellos para hacerlo.
 
 <br>
 
