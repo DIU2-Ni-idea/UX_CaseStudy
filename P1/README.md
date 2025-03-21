@@ -19,4 +19,5 @@ Enlaces a los entregables:
 - Usability Review:
     - [Usability Review](Usability_Review/Usability_Review_Kafka.pdf)
 
-Briefing resumen de la práctica:
+Conclusiones, justificaciones y valoraciones de los entregables --> [Conclusiones](Conclusiones_justificaciones_valoraciones.pdf)
+Briefing resumen de la práctica: [Briefing resumen](Briefing_resumen.pdf)
