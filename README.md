@@ -1,11 +1,11 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible ) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
 Grupo: DIU2_Ni-idea.  Curso: 2024/25 
 
-Actualizado: 07/03/2025
+Actualizado: 09/05/2025
 
 Proyecto: 
 
@@ -34,8 +34,6 @@ Miembros:
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 1.a User Reseach Plan
@@ -114,11 +112,11 @@ En general, nuestro caso se beneficiaría de migrar su actividad a una página w
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+
+![Feedback Capture Grid](P2/1_Reframing_Ideación/Feedback_Grid.jpg)
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
@@ -145,12 +143,21 @@ En general, nuestro caso se beneficiaría de migrar su actividad a una página w
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+El análisis de tareas realizado para nuestra propuesta incluye una valoración de la importancia de estas para diferentes categorías de usuarios: usuarios sin registrar (visitantes cualquiera a la página), usuarios registrados (que pueden acceder a más funcionalidades, como reseñas, comentarios...) y administradores (encargados de gestionar el contenido de la página).
+
+No todos los tipos de usuarios tienen valoración de importancia para todas las tareas, dado que algunas no están accesibles para ellos o no tiene sentido valorarlas.
+
+Enlace al documento: [Task Analysis](P2/3_Análisis_de_tareas/)
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+
+Este es el sitemap de nuestra propuesta. En color rojo están las páginas e información accesibles para todos los usuarios de la página, registrados o no. En color azul, el contenido únicamente accesible para usuarios registrados.
+![Sitemap](P2/4_Arquitectura_de_Información/Sitemap.jpg)
+
+En el siguiente documento figura el labelling de nuestra propuesta, que incluye también la descripción de los iconos o logos utilizados para algunas funciones o términos.
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
@@ -162,6 +169,9 @@ Término | Significado
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+
+Bocetos a mano del layout --> [Bocetos_P2](P2/5_Prototipo_Lo-Fi/Bocetos_P2.pdf)
+Wireframes del layout --> [Wireframes_P2](P2/5_Prototipo_Lo-Fi/Wireframes.pdf)
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
