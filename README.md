@@ -38,11 +38,9 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-Dentro del ámbito de la gastronomía (u ocio) de degustación, no contamos con un conocimiento
-muy profundo. Sabemos que existe, tenemos una idea general de su propósito y también una
-idea de su público objetivo, pero nada más allá de ello.
-Para afrontar nuestra falta de información previa, seguiremos una estrategia basada en los
-siguientes puntos:
+Dentro del ámbito de la gastronomía (u ocio) de degustación, no contamos con un conocimiento muy profundo. Sabemos que existe, tenemos una idea general de su propósito y también una idea de su público objetivo, pero nada más allá de ello.
+
+Para afrontar nuestra falta de información previa, seguiremos una estrategia basada en los siguientes puntos:
  - Llevar a cabo una investigación que combine métodos cualitativos (entrevistas, estudios etnográficos...), que nos permitirán saber qué motiva a los usuarios, y cuantitativos (encuestas, análisis estadísticos...), que nos proporcionarán información medible sobre las acciones de dichos usuarios. Además, emplearemos enfoques de observación junto con estudio del comportamiento para mayor efectividad. Nuestro objetivo es tener una visión lo más clara posible del ámbito, y para ello es necesario combinar estos cuatro aspectos en nuestra investigación, al ser complementarios.
  - A partir de nuestra investigación, estableceremos un plan que describa: objetivos, métodos, participantes, detalles logísticos y otros documentos relevantes del estudio.
 
@@ -115,23 +113,20 @@ En general, nuestro caso se beneficiaría de migrar su actividad a una página w
 ----
 
 ![Feedback Capture Grid](P2/1_Reframing_Ideación/Feedback_Grid.jpg)
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+
+Los principales problemas de La Taberna de Kafka son su dependencia de las redes sociales y la ausencia de una página web propia en la que ofrecer detalles de sus servicios y funciones beneficiosas para la usabilidad y la experiencia de usuario.
+
+Para solucionar ambos problemas, se propone el diseño y creación de una página web propia que cuente con todas aquellas funciones de las que carece actualmente en materia de experiencia de usuario, como: búsqueda, calendario de eventos, reseñas, etc. Juntando lo anterior con una reevaluación de la estrategia de negocio para proporcionar una vía accesible al ocio de degustación y provocar curiosidad por la gastronomía española, se puede incentivar la fidelidad de los usuarios y recompensarla. 
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-![Scope Canvas](P2/2_Propuesta_de_valor/Scope_Canvas.pdf)
+![Scope Canvas](P2/2_Propuesta_de_valor/SCOPE_CANVAS.png)
 
 
-### 2.b User Flow (task) analysis 
+### 2.c User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
@@ -139,10 +134,10 @@ El análisis de tareas realizado para nuestra propuesta incluye una valoración 
 
 No todos los tipos de usuarios tienen valoración de importancia para todas las tareas, dado que algunas no están accesibles para ellos o no tiene sentido valorarlas.
 
-Enlace al documento: [Task Analysis](P2/3_Análisis_de_tareas/)
+![Task Analysis](P2/3_Análisis_de_tareas/TASK_ANALYSIS.png)
 
 
-### 2.c IA: Sitemap + Labelling 
+### 2.d IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
@@ -150,18 +145,43 @@ Este es el sitemap de nuestra propuesta. En color rojo están las páginas e inf
 
 ![Sitemap](P2/4_Arquitectura_de_información/Sitemap.jpg)
 
-En el siguiente documento figura el labelling de nuestra propuesta, que incluye también la descripción de los iconos o logos utilizados para algunas funciones o términos: [Labelling](P2/4_Arquitectura_de_información/Labelling.pdf)
+A contiuación figura el labelling de nuestra propuesta, que incluye también la descripción de los iconos o logos utilizados para algunas funciones o términos: 
+
+![Labelling](P2/4_Arquitectura_de_información/LABELLING.png)
 
 
-### 2.d Wireframes
+### 2.e Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
 Para el bocetado a mano se ha empleado una tablet (con su correspondiente lápiz táctil) y una aplicación de notas instalada por defecto (Nebo). Para la realización de los wireframes del layout, se ha utilizado la plataforma online Figma.
 
-Bocetos a mano del layout --> [Bocetos_P2](P2/5_Prototipo_Lo-Fi/Bocetos_P2.pdf)
+PÁGINA DE INICIO:
 
-Wireframes del layout --> [Wireframes_P2](P2/5_Prototipo_Lo-Fi/Wireframes.pdf)
+![Boceto Inicio](P2/5_Prototipo_Lo-Fi/Bocetos/Boceto_inicio.png)
+![Wireframe Inicio](P2/5_Prototipo_Lo-Fi/Wireframes/INICIO.png)
+
+INICIO DE SESIÓN Y REGISTRARSE:
+
+![Boceto Sesion](P2/5_Prototipo_Lo-Fi/Bocetos/Boceto_sesion.png)
+![Wireframe Inicio Sesión](P2/5_Prototipo_Lo-Fi/Wireframes/INICIAR_SESIÓN.png)
+![Wireframe Registrarse](P2/5_Prototipo_Lo-Fi/Wireframes/REGISTRARSE.png)
+
+PERFIL:
+
+![Boceto Perfil](P2/5_Prototipo_Lo-Fi/Bocetos/Boceto_perfil.png)
+![Wireframe Perfil](P2/5_Prototipo_Lo-Fi/Wireframes/PERFIL.png)
+
+EVENTOS:
+
+![Boceto Eventos](P2/5_Prototipo_Lo-Fi/Bocetos/Boceto_eventos.png)
+![Wireframe Eventos](P2/5_Prototipo_Lo-Fi/Wireframes/EVENTOS.png)
+
+
+
+Bocetos a mano del layout --> [Bocetos_P2](P2/5_Prototipo_Lo-Fi/Bocetos/Bocetos_P2.pdf)
+
+Wireframes del layout --> [Wireframes_P2](P2/5_Prototipo_Lo-Fi/Wireframes/Wireframes.pdf)
 
 <br>
 
