@@ -9,11 +9,13 @@ Actualizado: 09/05/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+La Taberna de Kafka (2.0)
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra propuesta consiste en dotar a La Taberna de Kafka de una plataforma web propia que permita al establecimiento contactar con sus clientes (y viceversa) para fomentar el ambiente comunitario y cercano que tanto ha beneficiado al local, pero sin depender tanto de medios externos. Nuestra misión es convertir la taberna en un espacio accesible para el ocio de degustación, incitando curiosidad sobre la gastronomía española mientras se disfrutan de productos locales. Para ello, dotamos a nuestra propuesta de las funciones y características deseadas en este tipo de plataformas, facilitando el contacto con otros usuarios y con el establecimiento.
+
+Buscamos dotar a la página de las herramientas típicas de otras webs de hostelería (reseñas, comentarios...), además de proporcionar a los usuarios una idea bastante formada del tipo de experiencias que pueden esperarse de la taberna. 
 
 Logotipo: 
 
@@ -24,10 +26,6 @@ Miembros:
  * :bust_in_silhouette:  Rubén Hidalgo Troyano (https://github.com/RuHiTro)     :octocat:
 
 ----- 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
 
 # Proceso de Diseño 
 
@@ -117,13 +115,6 @@ En general, nuestro caso se beneficiaría de migrar su actividad a una página w
 ----
 
 ![Feedback Capture Grid](P2/1_Reframing_Ideación/Feedback_Grid.jpg)
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
@@ -137,6 +128,7 @@ En general, nuestro caso se beneficiaría de migrar su actividad a una página w
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
+![Scope Canvas](P2/2_Propuesta_de_valor/Scope_Canvas.pdf)
 
 
 ### 2.b User Flow (task) analysis 
@@ -155,25 +147,21 @@ Enlace al documento: [Task Analysis](P2/3_Análisis_de_tareas/)
 ----
 
 Este es el sitemap de nuestra propuesta. En color rojo están las páginas e información accesibles para todos los usuarios de la página, registrados o no. En color azul, el contenido únicamente accesible para usuarios registrados.
-![Sitemap](P2/4_Arquitectura_de_Información/Sitemap.jpg)
 
-En el siguiente documento figura el labelling de nuestra propuesta, que incluye también la descripción de los iconos o logos utilizados para algunas funciones o términos.
+![Sitemap](P2/4_Arquitectura_de_información/Sitemap.jpg)
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+En el siguiente documento figura el labelling de nuestra propuesta, que incluye también la descripción de los iconos o logos utilizados para algunas funciones o términos: [Labelling](P2/4_Arquitectura_de_información/Labelling.pdf)
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
-Bocetos a mano del layout --> [Bocetos_P2](P2/5_Prototipo_Lo-Fi/Bocetos_P2.pdf)
-Wireframes del layout --> [Wireframes_P2](P2/5_Prototipo_Lo-Fi/Wireframes.pdf)
+Para el bocetado a mano se ha empleado una tablet (con su correspondiente lápiz táctil) y una aplicación de notas instalada por defecto (Nebo). Para la realización de los wireframes del layout, se ha utilizado la plataforma online Figma.
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Bocetos a mano del layout --> [Bocetos_P2](P2/5_Prototipo_Lo-Fi/Bocetos_P2.pdf)
+
+Wireframes del layout --> [Wireframes_P2](P2/5_Prototipo_Lo-Fi/Wireframes.pdf)
 
 <br>
 
