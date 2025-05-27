@@ -11,3 +11,4 @@
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
 
 ## DISCLAIMER: EL PROTOTIPO HI-FI SIGUE EN PROCESO DE DESARROLLO Y SERÁ PUBLICADO FINALMENTE EL MARTES DÍA 27 DE MAYO.
+## ENLACE AL PROTOTIPO: https://www.figma.com/proto/3L10CskpnA4CCoCQp9zLLz/Prototipo-Hi-Fi?node-id=2-4&p=f&t=fBIUAmIh4b0d9jAm-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2
