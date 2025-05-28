@@ -12,7 +12,7 @@
 
 ## Conclusiones
 
-Esta tercera práctica nos ha proporcionado información muy útil acerca del proceso de diseño de una aplicación o página web, especialmente en materia de cómo conceptualizar e implementar inicialmente ese diseño. 
+Esta tercera práctica nos ha proporcionado información muy útil acerca del proceso de diseño de una interfaz móvil, especialmente en materia de cómo conceptualizar e implementar una versión inicial de ese diseño. 
 
 Nos hemos encontrado con numerosas dificultades durante la realización de esta parte de las prácticas, que han desembocado en que nuestro prototipo no cuente con las características ni el nivel de detalle que concebimos en los documentos enlazados aquí y en prácticas anteriores, aunque hemos velado por que sea funcional.
 
