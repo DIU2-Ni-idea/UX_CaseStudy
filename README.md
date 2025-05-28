@@ -1,11 +1,11 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible ) 
+Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
 Grupo: DIU2_Ni-idea.  Curso: 2024/25 
 
-Actualizado: 09/05/2025
+Actualizado: 28/05/2025
 
 Proyecto: 
 
@@ -19,7 +19,17 @@ Buscamos dotar a la página de las herramientas típicas de otras webs de hostel
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+- Logotipo (claro):
+![Logotipo_Kafka (Claro)](./P3/1_Moodboard/logotipo_kafka_claro.png)
+
+- Logotipo (oscuro):
+![Logotipo_Kafka (Oscuro)](./P3/1_Moodboard/logotipo_kafka_oscuro.png)
+
+Ambos logotipos son los ya utilizados por el establecimiento. Hemos decidido mantenerlos porque encajan bien con el estilo de simpleza y elegancia que queremos darle a nuestra propuesta.
+
+Slogan / Frase de marca:
+
+#### No venimos a probar vino, venimos a saborear la vida.
 
 Miembros:
  * :bust_in_silhouette:  Javier García Valderrama (https://github.com/NoVa-5516)    :octocat:     
@@ -156,32 +166,31 @@ A contiuación figura el labelling de nuestra propuesta, que incluye también la
 
 Para el bocetado a mano se ha empleado una tablet (con su correspondiente lápiz táctil) y una aplicación de notas instalada por defecto (Nebo). Para la realización de los wireframes del layout, se ha utilizado la plataforma online Figma.
 
-PÁGINA DE INICIO:
+PÁGINA DE INICIO: es la página que verán nuestros usuarios nada más entrar en nuestra web. Cuenta con un carrusel de imágenes en la parte superior, por debajo del headline. Después del carrusel, se listan algunas reseñas de los clientes y se ofrece la posibilidad de saltar a la página de reseñas directamente.
 
 ![Boceto Inicio](P2/5_Prototipo_Lo-Fi/Bocetos/Boceto_inicio.png)
 ![Wireframe Inicio](P2/5_Prototipo_Lo-Fi/Wireframes/INICIO.png)
 
-INICIO DE SESIÓN Y REGISTRARSE:
+INICIO DE SESIÓN Y REGISTRARSE: aparecerán para usuarios no registrados en el sistema, y consistirán en formularios con varios campos, debidamente etiquetados (y marcados, si son obligatorios).
 
 ![Boceto Sesion](P2/5_Prototipo_Lo-Fi/Bocetos/Boceto_sesion.png)
 ![Wireframe Inicio Sesión](P2/5_Prototipo_Lo-Fi/Wireframes/INICIAR_SESIÓN.png)
 ![Wireframe Registrarse](P2/5_Prototipo_Lo-Fi/Wireframes/REGISTRARSE.png)
 
-PERFIL:
+PERFIL: podrán acceder los usuarios identificados. Tendrán la posibilidad de editar su información personal y podrán visualizar tanto las reservas realizadas como los eventos privados organizados.
 
 ![Boceto Perfil](P2/5_Prototipo_Lo-Fi/Bocetos/Boceto_perfil.png)
 ![Wireframe Perfil](P2/5_Prototipo_Lo-Fi/Wireframes/PERFIL.png)
 
-EVENTOS:
+EVENTOS: esta página resumirá los diferentes eventos y actividades organizadas por el establecimiento. Dispondrá de un calendario que muestre a simple vista qué eventos tienen lugar en qué fechas, junto con un listado de todos los eventos más abajo (que además cuenta con una opción de búsqueda para llegar más rápido al contenido deseado).
 
 ![Boceto Eventos](P2/5_Prototipo_Lo-Fi/Bocetos/Boceto_eventos.png)
 ![Wireframe Eventos](P2/5_Prototipo_Lo-Fi/Wireframes/EVENTOS.png)
 
 
-
-Bocetos a mano del layout --> [Bocetos_P2](P2/5_Prototipo_Lo-Fi/Bocetos/Bocetos_P2.pdf)
-
-Wireframes del layout --> [Wireframes_P2](P2/5_Prototipo_Lo-Fi/Wireframes/Wireframes.pdf)
+A modo de vista general del prototipado Lo-Fi:
+- Bocetos a mano del layout --> [Bocetos_P2](P2/5_Prototipo_Lo-Fi/Bocetos/Bocetos_P2.pdf)
+- Wireframes del layout --> [Wireframes_P2](P2/5_Prototipo_Lo-Fi/Wireframes/Wireframes.pdf)
 
 <br>
 
@@ -194,39 +203,54 @@ Wireframes del layout --> [Wireframes_P2](P2/5_Prototipo_Lo-Fi/Wireframes/Wirefr
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Para el moodboard de nuestra propuesta hemos rellenado la plantilla disponible en Figma. En ella, hemos especificado los aspectos más importantes del estilo de nuestra marca:
+- Logotipo: hemos mantenido los logotipos claro y oscuro del establecimiento, dado que se ajustan bien a la sensación de elegancia, sofisticación y simpleza que buscamos. Se obtuvieron de la página de <b>Facebook<b> del local.
+- Frase motivadora de la marca: refuerza nuestra intención de proporcionar experiencias que inciten a los clientes a profundizar en la gastronomía española.
+- Paleta de colores: se obtuvo gracias a Coolors, y representa los ideales de nuestra marca - elegancia, sofisticación y simpleza. Aunque no se diferencia enormemente de la ya utilizada por el local, sí está ajustada para resaltar las anteriores tres características.
+- Tipografías: Roundo para resaltar los títulos, Pilcrow Rounded para dar legibilidad y un toque moderno a los textos. Se obtuvo esta pareja de fuentes de la página Font Pair.
+
+Las imágenes de inspiración y el tipo de imágenes que se usarían en nuestra propuesta han sido todas obtenidas de diferentes páginas de internet.
+
+![Moodboard](./P3/1_Moodboard/Moodboard.png)
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+![Landing Page](./P3/2_Landing_Page/Landing%20Page.png)
+
+Esta landing page tiene por objetivo atraer a gente interesada en nuevas experiencias. Mediante la imagen de fondo y la frase inspiradora, se expone qué ofrece el local: catas y vino. Como se puede apreciar, se han empleado la paleta de colores y el estilo tipográfico ya propuestos en nuestros moodboard.
+
+Para resaltar positivamente el establecimiento, se incluyen reseñas que destaquen elementos importantes: lo que se ofrece, el ambiente y el entorno que se vive.
+
+Para más información, se da la posibilidad de acceder a más información mediante el menú de navegación de la parte superior, que llevará a páginas breves que ofrecerán una versión resumida de su equivalente en la página web.
+
+Por último, se añade un CTA en forma de botón, que enlazaría con la página principal de la web de nuestra propuesta.
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+De cara al diseño y creación de un prototipo móvil, especificamos los siguientes patrones de diseño a utilizar. Muchos de ellos se basan en componentes del Material 3 Design Kit de Google, el cual se puede encontrar como biblioteca de Figma.
+
+![UI Guidelines](./P3/3_UI_Guidelines/UI%20Guidelines.png)
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+El mockup (prototipo de alta definición) se puede visualizar desde el siguiente enlace: [Prototipo Hi-Fi](https://www.figma.com/proto/3L10CskpnA4CCoCQp9zLLz/La-Taberna-de-Kafka--2.0----DIU2.Ni-idea?node-id=0-1&t=jmq84Rpx54hl7FX8-1)
+
 
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+Este repositorio de GitHub contiene todo el contenido de nuestro Case Study, organizado debidamente.
 
 <br>
 
