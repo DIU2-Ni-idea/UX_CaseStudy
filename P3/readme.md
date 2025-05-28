@@ -1,14 +1,18 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
-- Landing Page
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
+- Moodboard (diseño visual + logotipo): 
+![Moodboard](./1_Moodboard/Moodboard.png)
+- Landing Page:
+![Landing_Page](./2_Landing_Page/Landing%20Page.png)
+- UI Guidelines:
+![UI Guidelines](./3_UI_Guidelines/UI%20Guidelines.png)
+- Mockup: LAYOUT HI-FI: [Enlace al prototipo](https://www.figma.com/proto/3L10CskpnA4CCoCQp9zLLz/La-Taberna-de-Kafka--2.0----DIU2.Ni-idea?node-id=0-1&t=jmq84Rpx54hl7FX8-1)
+
+- Publicación del Case Study: el estudio de caso asociado está contenido en este repositorio.
 
 ## Conclusiones
+Esta tercera práctica nos ha proporcionado información muy útil acerca del proceso de diseño de una aplicación o página web, especialmente en materia de cómo conceptualizar e implementar inicialmente ese diseño. 
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Nos hemos encontrado con numerosas dificultades durante la realización de esta parte de las prácticas, que han desembocado en que nuestro prototipo no cuente con las características ni el nivel de detalle que concebimos en los documentos enlazados aquí y en prácticas anteriores, aunque hemos velado por que sea funcional.
 
-## DISCLAIMER: EL PROTOTIPO HI-FI SIGUE EN PROCESO DE DESARROLLO Y SERÁ PUBLICADO FINALMENTE EL MARTES DÍA 27 DE MAYO.
-## ENLACE AL PROTOTIPO: https://www.figma.com/proto/3L10CskpnA4CCoCQp9zLLz/La-Taberna-de-Kafka--2.0----DIU2.Ni-idea?node-id=0-1&t=jmq84Rpx54hl7FX8-1
+En general, consideramos que hemos aprendido bastante de lo que esta práctica tiene que ofrecer y que hemos trabajado todo lo posible dentro de nuestras circunstancias, aunque haya mucho por mejorar.
