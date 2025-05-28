@@ -20,9 +20,11 @@ Buscamos dotar a la página de las herramientas típicas de otras webs de hostel
 Logotipo: 
 
 - Logotipo (claro):
+
 ![Logotipo_Kafka (Claro)](./P3/1_Moodboard/logotipo_kafka_claro.png)
 
 - Logotipo (oscuro):
+
 ![Logotipo_Kafka (Oscuro)](./P3/1_Moodboard/logotipo_kafka_oscuro.png)
 
 Ambos logotipos son los ya utilizados por el establecimiento. Hemos decidido mantenerlos porque encajan bien con el estilo de simpleza y elegancia que queremos darle a nuestra propuesta.
@@ -204,7 +206,7 @@ A modo de vista general del prototipado Lo-Fi:
 -----
 
 Para el moodboard de nuestra propuesta hemos rellenado la plantilla disponible en Figma. En ella, hemos especificado los aspectos más importantes del estilo de nuestra marca:
-- Logotipo: hemos mantenido los logotipos claro y oscuro del establecimiento, dado que se ajustan bien a la sensación de elegancia, sofisticación y simpleza que buscamos. Se obtuvieron de la página de <b>Facebook<b> del local.
+- Logotipo: hemos mantenido los logotipos claro y oscuro del establecimiento, dado que se ajustan bien a la sensación de elegancia, sofisticación y simpleza que buscamos. Se obtuvieron de la página de <b>Facebook</b> del local.
 - Frase motivadora de la marca: refuerza nuestra intención de proporcionar experiencias que inciten a los clientes a profundizar en la gastronomía española.
 - Paleta de colores: se obtuvo gracias a Coolors, y representa los ideales de nuestra marca - elegancia, sofisticación y simpleza. Aunque no se diferencia enormemente de la ya utilizada por el local, sí está ajustada para resaltar las anteriores tres características.
 - Tipografías: Roundo para resaltar los títulos, Pilcrow Rounded para dar legibilidad y un toque moderno a los textos. Se obtuvo esta pareja de fuentes de la página Font Pair.
