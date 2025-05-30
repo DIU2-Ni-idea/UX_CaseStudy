@@ -6,7 +6,7 @@
 ![Landing_Page](./2_Landing_Page/Landing%20Page.png)
 - UI Guidelines:
 ![UI Guidelines](./3_UI_Guidelines/UI%20Guidelines.png)
-- Mockup: LAYOUT HI-FI: [Enlace al prototipo](https://www.figma.com/proto/3L10CskpnA4CCoCQp9zLLz/La-Taberna-de-Kafka--2.0----DIU2.Ni-idea?node-id=0-1&t=jmq84Rpx54hl7FX8-1)
+- Mockup: LAYOUT HI-FI: [Enlace al prototipo](https://www.figma.com/proto/NdmikAMRVXkm9NCHWrjz0f/La-Taberna-de-Kafka--2.0----DIU2_Ni-idea?t=jzJQndDBn2qlzDb5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=2-4&starting-point-node-id=2%3A2)
 
 - Publicación del Case Study: el estudio de caso asociado está contenido en este repositorio.
 
