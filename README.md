@@ -198,9 +198,6 @@ A modo de vista general del prototipado Lo-Fi:
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
@@ -244,7 +241,7 @@ De cara al diseño y creación de un prototipo móvil, especificamos los siguien
 ![Método UX](img/mockup.png) 
 ----
 
-El mockup (prototipo de alta definición) se puede visualizar desde el siguiente enlace: [Prototipo Hi-Fi](https://www.figma.com/proto/3L10CskpnA4CCoCQp9zLLz/La-Taberna-de-Kafka--2.0----DIU2.Ni-idea?node-id=0-1&t=jmq84Rpx54hl7FX8-1)
+El mockup (prototipo de alta definición) se puede visualizar desde el siguiente enlace: [Prototipo Hi-Fi](https://www.figma.com/proto/NdmikAMRVXkm9NCHWrjz0f/La-Taberna-de-Kafka--2.0----DIU2_Ni-idea?node-id=0-1&t=0ovcBklMheiHHqlH-1)
 
 
 
