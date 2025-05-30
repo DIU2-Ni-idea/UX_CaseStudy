@@ -1,14 +1,10 @@
 # Usability Report
 
-
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
+<img src="https://github.com/DIU3-CarlonsoTech/UX_CaseStudy/blob/master/P2/Logo.png" alt="usability Download png" style="width: 25%; height: auto;" />
 
 #### Evaluación de usabilidad del proyecto 
-
-### (NOMBRE PROYECTO )
-
-### (Fecha)
+### ArqueoBid
+### 30/05/25
 
 
 
@@ -16,7 +12,7 @@
 
 [img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+[Enlace a GITHUB del proyecto](https://github.com/DIU3-CarlonsoTech/UX_CaseStudy)
 
 
 
