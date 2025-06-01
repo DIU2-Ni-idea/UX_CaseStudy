@@ -56,16 +56,44 @@ Caso B:
 ### 3.2 Eye tracking (usando GazeRecorder)
 Cada uno de los usuarios participantes en este estudio han realizado su correspondiente eye-tracking sobre el caso que se les ha asignado. A continuación exponemos solo un resultado de cada caso, para mantener este informe breve, pero se pueden acceder al resto en la carpeta designada de esta práctica.
 
->>> Inserta aquí las imágenes de un eye-tracking de ambos casos.
+Eye-tracking A:
+
+![inicio_a1](./eye_tracking/usuario_1/principal_a1.png);
+![eventos_a1](./eye_tracking/usuario_1/eventos_a1.png);
+
+Eye-tracking B:
+
+![inicio_b4](./eye_tracking/usuario_4/inicio_b4.png);
+![subasta_b4](./eye_tracking/usuario_4/subasta_b4.png);
 
 ### 3.3 Cuestionarios SUS (System Usability Scale)
 Como última parte de los tests realizados, se pidió a cada participante que rellenase el cuestionario SUS sobre el caso que habían visto y probado. Estos fueron los resultados.
 
->>> Inserta aquí una tabla con los resultados de los SUS
+| # Id.usuario | Caso | Puntuación SUS |
+| ------------ | ---- | -------------- |
+| 1            | A    | 82.5           |
+| 2            | A    | 90             |
+| 3            | A    | 77.5           |
+| 4            | B    | 62.5           |
+| 5            | B    | 70             |
+
+Se pueden ver los tests SUS completos en la carpeta [resultados_sus](./resultados_sus/).
+
+#### Conclusiones de los cuestionarios SUS
+
+Antes de exponer nuestras conclusiones sobre los resultados de estos cuestionarios, nos gustaría destacar que nuestro estudio ha estado muy limitado en el número de usuarios que hemos podido reclutar, y también en su variedad.
+
+Finalmente, las puntuaciones medias quedan de la siguiente forma: el caso A con una media de 83.3, dentro del rango aceptable, y el caso B con una media de 66.25, dentro del rango marginal.
+
+Consideramos que los resultados, aunque muy útiles para obtener feedback de usuarios reales, no son lo suficientemente numerosos como para formar una muestra representativa de la calidad de cualquiera de los casos. Ambos casos han tenido sus problemas, y ambos han tenido sus áreas destacadas.
 
 ## 4. Conclusiones del estudio realizado
 
->>> Añade aquí las conclusiones del estudio
+A modo de resumen de todo lo aprendido de este estudio, ofrecemos la siguiente valoración:
+
+Las técnicas aplicadas en la realización de este estudio nos han proporcionado una buena primera experiencia. La gran variedad de metodologías que se pueden aplicar dan lugar a que existan muchas posibilidades para conocer mejor los puntos fuertes y débiles de nuestros proyectos. 
+
+Saber obtener feedback de los usuarios, que al fin y al cabo son quienes van a usar nuestras propuestas, es crucial en el mundo de la informática, y esta práctica nos lo ha hecho saber. Las dificultades afrontadas durante la realización del estudio son una parte más de la experiencia, y también se ha aprendido de ellas.
 
 ## 5. Usability Report del caso B
-Nos fue asignado como caso B el proyecto [ArqueoBid](https://github.com/DIU3-CarlonsoTech/UX_CaseStudy), desarrollado por nuestros compañeros del grupo "DIU3.CarlosTech". El reporte de usabilidad asociado se detalla en el siguiente documento: [Usability Report "ArqueoBid]()
+Nos fue asignado como caso B el proyecto [ArqueoBid](https://github.com/DIU3-CarlonsoTech/UX_CaseStudy), desarrollado por nuestros compañeros del grupo "DIU3.CarlosTech". El reporte de usabilidad asociado se detalla en el siguiente documento: [Usability Report "ArqueoBid"]()
