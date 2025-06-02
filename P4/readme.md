@@ -96,4 +96,4 @@ Las técnicas aplicadas en la realización de este estudio nos han proporcionado
 Saber obtener feedback de los usuarios, que al fin y al cabo son quienes van a usar nuestras propuestas, es crucial en el mundo de la informática, y esta práctica nos lo ha hecho saber. Las dificultades afrontadas durante la realización del estudio son una parte más de la experiencia, y también se ha aprendido de ellas.
 
 ## 5. Usability Report del caso B
-Nos fue asignado como caso B el proyecto [ArqueoBid](https://github.com/DIU3-CarlonsoTech/UX_CaseStudy), desarrollado por nuestros compañeros del grupo "DIU3.CarlosTech". El reporte de usabilidad asociado se detalla en el siguiente documento: [Usability Report "ArqueoBid"]()
+Nos fue asignado como caso B el proyecto [ArqueoBid](https://github.com/DIU3-CarlonsoTech/UX_CaseStudy), desarrollado por nuestros compañeros del grupo "DIU3.CarlosTech". El reporte de usabilidad asociado se detalla en el siguiente documento: [Usability Report "ArqueoBid"](./Usability_Report_B.md)
