@@ -338,7 +338,7 @@ Como última parte de los tests realizados, se pidió a cada participante que re
 | 4            | B    | 62.5           |
 | 5            | B    | 70             |
 
-Se pueden ver los tests SUS completos en la carpeta [resultados_sus](./resultados_sus/).
+Se pueden ver los tests SUS completos en la carpeta [resultados_sus](./P4/resultados_sus/).
 
 #### 4.c.1 Conclusiones de los cuestionarios SUS
 
