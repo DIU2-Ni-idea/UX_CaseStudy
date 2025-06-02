@@ -35,7 +35,7 @@ del diseño no han logrado captar la atención de los usuarios.
 
 Este estudio se ha basado en emplear A/B Testing para, de forma comparativa, analizar y evaluar la usabilidad tanto de nuestra propuesta como la valorada en este informe.
 
-Para este estudio concreto, se han usado varios tipos de pruebas, entrelazados de modo que se obtuviesen la mayor cantidad de datos útiles posibles: preguntas previas -> eye-tracking -> tareas en prototipo -> preguntas posteriores. Para poder crear y realizar las pruebas, han sido necesarias herramientas como Maze (https://maze.co/) o GazeRecorder (https://gazerecorder.com/).
+Para este estudio concreto, se han usado varios tipos de pruebas, entrelazados de modo que se obtuviesen la mayor cantidad de datos útiles posibles: preguntas previas -> eye-tracking -> tareas en prototipo -> preguntas posteriores. Para poder crear y realizar las pruebas, han sido necesarias herramientas como [Maze](https://maze.co/) o [GazeRecorder](https://gazerecorder.com/).
 
 Debido a la naturaleza de este estudio, las pruebas fueron diseñadas para poder ejecutarse de forma remota o presencial, con las debidas instrucciones dadas a los usuarios para que pudieran realizar su aportación debidamente.
  

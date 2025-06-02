@@ -259,65 +259,113 @@ Este repositorio de GitHub contiene todo el contenido de nuestro Case Study, org
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Nos fue asignado como caso B el proyecto [ArqueoBid](https://github.com/DIU3-CarlonsoTech/UX_CaseStudy), una propuesta de subastas de piezas arqueológicas desarrollada por nuestros compañeros del grupo "DIU3.CarlosTech".
 
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| # Id Usuario  | Sexo/Edad | Ocupación   |  Exp.TIC    | Plataforma | Caso
+| ------------- | --------- | ----------- | ----------- | ---------- | ----
+| 1  | H / 21    | Estudiante universitario  | Alta        | Web, remoto       | A 
+| 2  | M / 23    | Cajera de supermercado      | Media       | Web, remoto        | A 
+| 3  | M / 45    | Limpiadora     | Baja        | Web, presencial      |  A
+| 4  | H / 16    | Estudiante de secundaria | Media       | Web, presencial        | B 
+| 5  | H / 59    | Supervisor de ventas | Media-baja       | Web, presencial        | B 
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Las pruebas llevadas a cabo como parte de este A/B Testing han seguido la siguiente estructura
+- Un par de preguntas introductorias según el caso examinado.
+- Eye tracking del caso correspondiente (2 imágenes, 15 segundos cada una)
+- Algunas tareas con el prototipo del caso a valorar.
+- Preguntas más detalladas sobre la experiencia de uso y el diseño de los prototipos.
+- Cuestionario SUS sobre el caso.
 
+#### 4.b.1 Tests (mediante Maze) 
 
+Para llevar a cabo gran parte de la recopilación de datos, se han usado tests creados con la
+herramienta [Maze](https://maze.co/), la cual nos ha permitido organizar cuestionarios donde
+poder utilizar los prototipos sin romper el flujo del test.
+
+##### Preguntas previas según el caso
+Caso A:
+- ¿Con qué frecuencia utiliza Internet para reservar eventos?
+- ¿Ha asistido alguna vez a una degustación culinaria?
+
+Caso B:
+- ¿Con qué frecuencia adquiere artículos por Internet?
+- Ha participado alguna vez en una subasta de productos?
+
+##### Tareas en prototipo según el caso
+Caso A:
+- Realización de una reserva en un evento.
+- Acceder al perfil para modificar información.
+
+Caso B:
+- Realización de puja en una subasta.
+- Acceder a la página de perfil para iniciar sesión
+
+##### Preguntas posteriores (comunes a ambos casos)
+- ¿Está satisfecho con la navegación del prototipo?
+- ¿Ha necesitado tiempo para familiarizarse con el prototipo?
+- ¿Cómo describiría su experiencia utilizando la interfaz del prototipo?
+- ¿Qué aspecto del diseño del prototipo le parece más destacable?
+- ¿Fue capaz de distinguir los contenidos de las páginas?
+
+#### 4.b.2 Eye-tracking
+
+Cada uno de los usuarios participantes en este estudio han realizado su correspondiente eye-tracking sobre el caso que se les ha asignado. La plataforma usada para ello ha sido [GazeRecorder](https://gazerecorder.com/).
+
+A continuación, mostramos algunos de los resultados de dichas pruebas:
+
+![inicio_a1](./P4/eye_tracking/usuario_1/principal_a1.png);
+![eventos_a1](./P4/eye_tracking/usuario_1/eventos_a1.png);
+
+![inicio_b4](./P4/eye_tracking/usuario_4/inicio_b4.png);
+![subasta_b4](./P4/eye_tracking/usuario_4/subasta_b4.png);
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
+
+Como última parte de los tests realizados, se pidió a cada participante que rellenase el cuestionario SUS sobre el caso que habían visto y probado. Estos fueron los resultados.
+
+| # Id.usuario | Caso | Puntuación SUS |
+| ------------ | ---- | -------------- |
+| 1            | A    | 82.5           |
+| 2            | A    | 90             |
+| 3            | A    | 77.5           |
+| 4            | B    | 62.5           |
+| 5            | B    | 70             |
+
+Se pueden ver los tests SUS completos en la carpeta [resultados_sus](./resultados_sus/).
+
+#### 4.c.1 Conclusiones de los cuestionarios SUS
+
+Antes de exponer nuestras conclusiones sobre los resultados de estos cuestionarios, nos gustaría destacar que nuestro estudio ha estado muy limitado en el número de usuarios que hemos podido reclutar, y también en su variedad.
+
+Finalmente, las puntuaciones medias quedan de la siguiente forma: el caso A con una media de 83.3, dentro del rango aceptable, y el caso B con una media de 66.25, dentro del rango marginal.
+
+Consideramos que los resultados, aunque muy útiles para obtener feedback de usuarios reales, no son lo suficientemente numerosos como para formar una muestra representativa de la calidad de cualquiera de los casos. Ambos casos han tenido sus problemas, y ambos han tenido sus áreas destacadas.
 
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
+### 4.d Conclusiones del estudio realizado
 
-### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
+A modo de resumen de todo lo aprendido de este estudio, ofrecemos la siguiente valoración:
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Las técnicas aplicadas en la realización de este estudio nos han proporcionado una buena primera experiencia. La gran variedad de metodologías que se pueden aplicar dan lugar a que existan muchas posibilidades para conocer mejor los puntos fuertes y débiles de nuestros proyectos. 
 
-### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
+Saber obtener feedback de los usuarios, que al fin y al cabo son quienes van a usar nuestras propuestas, es crucial en el mundo de la informática, y esta práctica nos lo ha hecho saber. Las dificultades afrontadas durante la realización del estudio son una parte más de la experiencia, y también se ha aprendido de ellas.
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
-
-### 4.f Usability Report de B
+### 4.e Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
+El reporte de usabilidad asociado al caso B se detalla en el siguiente documento: [Usability Report "ArqueoBid"](./P4/Usability_Report_B.md)
 
 
 <br>
